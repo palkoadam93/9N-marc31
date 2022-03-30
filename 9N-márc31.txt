@@ -1,0 +1,44 @@
+Brainfuck
+
+JSBin - JavaScript játékok
+https://dev.to/gscode/10-best-of-javascript-games-3mjj
+
+JSBin - számológép és számrendszer-átváltás
+https://www.section.io/engineering-education/building-a-calculator-a-javascript-project-for-beginners/
+https://github.com/Nomzy-kush/CalculatorJS-Section
+
+JSBin - algoritmusok JavaScript nyelven - "JavaScript" és "Console" fül kell, csak az "Output" fülön kapcsoljuk ki az "Auto-run JS" gombot
+https://github.com/palkoadam93/JSprog
+
+Algoritmusok - vetíteni és megbeszélni (?)
+
+JSBin - canvas grafikák
+https://github.com/palkoadam93/JScanvas
+- változtatni, amit lehet!
+
+Grafika alapjai - koordinátarendszer, pontok, szakaszok
+Függvényábrázolás!
+GeoGebra - görbék
+YouTube videók
+	egyenes/szakasz
+	téglalap/négyzet
+	ellipszis/kör
+	parabola/hiperbola
+	Bézier-görbe - https://www.youtube.com/watch?v=pnYccz1Ha34
+	Hermite-ív
+Paint rajzolás - hogyan rajzol görbéket és íveket
+
+QGIS és térképek letöltése
+Stellarium
+
+C# és VisualStudio
+1. számológép - https://github.com/palkoadam93/Calculator
+2. editor - https://drive.google.com/file/d/1s49hhF_8RvAOSZrYSgLZE3d6aN5N09rs/view?usp=sharing
+3. rajzprogram - https://github.com/palkoadam93/Rajzprogram
+4. böngésző - https://github.com/palkoadam93/Webbongeszo
+
+Weboldal - történelemből - mindenki 1 aloldalt készít, és én összerakom
+Weboldal - versek, idézetek - szövegformázás
+Google Fonts
+	- Menj el, menj, szegény magyar
+	- Földöntúli trialógus
